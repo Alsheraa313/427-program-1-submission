@@ -10,8 +10,9 @@ gcc chewaTestServer.c -o chewaTestServer -lsqlite3 (for server)
 gcc chewaTestClient.c -o chewaTestClient (for client)
 ./chewaTestServer ./chewaTestClient
 For linux ssh terminal as shown in the video: gcc chewaTestServer.c sqlite3.c -o chewaTestServer -lpthread -ldl (the rest is the same)
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/731dcb3a-1705-4dac-9776-2b6d1a1402c7" />
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/16615328-3c8e-4afa-9026-13cab587236d" />
+
+<img width="870" height="277" alt="Screenshot 2025-10-07 8 07 26 PM" src="https://github.com/user-attachments/assets/85535029-eeb2-409b-8aca-1531b288079f" />
+<img width="696" height="325" alt="Screenshot 2025-10-07 8 07 32 PM" src="https://github.com/user-attachments/assets/9bfe92a4-729d-477d-b71b-4c654f70d4be" />
 
 Each Student’s role:
 Mohammed Alsheraa - Implemented the following features: 
