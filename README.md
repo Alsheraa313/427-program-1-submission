@@ -24,3 +24,6 @@ Implemented functions for sell, buy, and list
 
 Bugs in the code:
 No known bugs in the code. 
+
+Youtube Link: 
+https://youtu.be/yDxu7kkkCPQ
